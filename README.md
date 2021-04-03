@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Hyperz!](https://github.com/itz-hyperz/)
+## Hey 👋, I'm [JipyTheDev!](https://github.com/joshua66553/)
 
 <img align="right" height="60" width="60" alt="" src="http://hyperz.dev/images/logo.png" />
 
@@ -40,7 +40,7 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="left">
-<a href="https://github.com/Itz-Hyperz">
+<a href="https://github.com/joshua66553">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Itz-Hyperz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Itz-Hyperz&layout=compact&langs_count=8&theme=react"/>
 </a>
@@ -54,7 +54,7 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 - Laptop: HP Pavillion (I have a custom desktop)
 - Browser: Brave Browser
 - Code Editor: VSCode - The best editor out there
-- Stay Updated: [YouTube](https://hyperz.dev/youtube), [Discord](https://hyperz.dev/discord), and [Twitter](https://twitter.com/itz_hyperz)
+- Stay Updated: [YouTube](https://hyperz.dev/youtube), [Discord](https://jipythedev.xyz/discord), and [Twitter](https://twitter.com/itz_hyperz)
 
 ---
 
