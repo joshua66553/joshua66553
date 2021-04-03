@@ -41,8 +41,8 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 
 <p align="left">
 <a href="https://github.com/joshua66553">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Itz-Hyperz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Itz-Hyperz&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joshua66553z&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joshua66553&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
