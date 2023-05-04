@@ -1,7 +1,5 @@
 ## Hey 👋, I'm [JipyTheDev!](https://github.com/joshua66553/)
 
-<img align="right" height="60" width="60" alt="" src="http://hyperz.dev/images/logo.png" />
-
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://hyperz.dev/discord)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://hyperz.dev/youtube)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://hyperz.dev/)
@@ -10,15 +8,12 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=joshua66553&label=Views&color=blue&style=plastic)
 
-I'm a daddy student planning to pursue gay strip teasing when I'm older who wants to love phoenix and smack him on the ass 👮. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to party with friends and hang out in Discord calls 👨🏻‍💻. I'm currently into Discord Bot Development 🕸️ and working on my Command Handlers and Formatting 🤓.
-
-
-[![DOD Badge](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-17a6ec?style=for-the-badge)](https://github.com/devingondiscord)
+I'm a games design student student, i am studdying how to make 3d game with unreal engine. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to party with friends and hang out in Discord calls 👨🏻‍💻.
 
 <img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
 
 
-### Some Highlights:
+<!-- ### Some Highlights:
 
 - 📌 &nbsp; 
 - 🚀 &nbsp; 
@@ -26,7 +21,8 @@ I'm a daddy student planning to pursue gay strip teasing when I'm older who want
 - 🌀 &nbsp; 
 - 👓 &nbsp; 
 - 💻 &nbsp; 
-
+ -->
+ 
 ### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
@@ -49,11 +45,19 @@ I'm a daddy student planning to pursue gay strip teasing when I'm older who want
 
 ### ⚙️ My Resources & Tools:
 
-- OS: Windows 10
-- Laptop: HP Pavillion (I have a custom desktop)
-- Browser: Brave Browser
+- PC Specs:
+--   Windows 10
+--   AMD Ryzen 5 2600X
+--   16GB Corsair Vengeance RGB PRO 3200MHz
+--   7TB of total storage
+- -  NVIDIA Geforce GTX 1080
+- Laptop: Acer Aspire 5 A515-47
+-   OS: Windows 11
+-   CPU: AMD Ryzen 5 5625U
+-   Ram: 16GB
+-   Storage: 512GB
+- Browser: Opera GX
 - Code Editor: VSCode - The best editor out there
-- Stay Updated: [YouTube](https://hyperz.dev/youtube), [Discord](https://jipythedev.xyz/discord), and [Twitter](https://twitter.com/itz_hyperz)
 
 ---
 
