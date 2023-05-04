@@ -46,7 +46,7 @@ I'm a games design student student, i am studdying how to make 3d game with unre
 ### ⚙️ My Resources & Tools:
 
 - PC Specs:
--  Windows 10
+- - Windows 10
 - AMD Ryzen 5 2600X
 - 16GB Corsair Vengeance RGB PRO 3200MHz
 -  7TB of total storage
