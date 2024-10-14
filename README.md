@@ -64,4 +64,7 @@ I'm a games design student student, I am currently studying how to make 3d game 
 <h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
 
 ---
-<img height="180em" src="https://raw.githubusercontent.com/joshua66553/joshua66553/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+
+## Commits
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/joshua66553/joshua66553/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/joshua66553/joshua66553/output/github-contribution-grid-snake.svg#gh-light-mode-only)
